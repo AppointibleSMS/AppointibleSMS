@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AppointibleSMS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in React, Bootstrap, CSS, HTML, Technical SEO
+- 🌱 I’m currently learning SAAS business structure 
 - 💞️ I’m looking to collaborate on SMS Marketing project https://appointible.com/
 - 📫 How to reach me: vilmantas.laskevicius@appointible.com
 
